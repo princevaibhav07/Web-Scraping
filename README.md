@@ -1,7 +1,7 @@
 # Web-Scraping
 This project focuses on web scraping using Python. The objective is to extract data from various websites and perform analysis on the gathered information.
 
-Technologies Used
+# Technologies Used
 
 Python: The primary programming language used for web scraping.
 
